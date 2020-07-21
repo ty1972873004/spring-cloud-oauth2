@@ -1,0 +1,13 @@
+server:
+  port: 8889
+spring:
+  application:
+    name: auth-server
+logging:
+  pattern:
+    console: '%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level [%thread] %logger{15} - %msg%n'
+  config: classpath:logback-spring.xml
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8888/eureka/

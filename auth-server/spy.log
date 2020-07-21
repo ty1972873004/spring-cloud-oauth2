@@ -1,0 +1,54 @@
+1594711780661|22|statement|connection 0|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711780844|9|statement|connection 1|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711780954|10|statement|connection 2|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711781084|9|statement|connection 3|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711781202|8|statement|connection 4|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711781316|12|statement|connection 5|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711781425|6|statement|connection 6|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711781554|7|statement|connection 7|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711781675|11|statement|connection 8|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711781814|9|statement|connection 9|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711969422|13|statement|connection 0|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711969474|3|statement|connection 1|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711969520|3|statement|connection 2|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711969576|3|statement|connection 3|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711969627|7|statement|connection 4|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711969710|5|statement|connection 5|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711969755|3|statement|connection 6|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711969825|7|statement|connection 7|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711969877|3|statement|connection 8|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711969977|8|statement|connection 9|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594711992159|25|statement|connection 9|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|INSERT INTO sys_user  ( id, username, password, email, phone, del_flag, create_time, modified_time )  VALUES  ( ?, ?, ?, ?, ?, ?, ?, ? )|INSERT INTO sys_user  ( id, username, password, email, phone, del_flag, create_time, modified_time )  VALUES  ( 1282941197484093442, 'trazen', '123456', 'trazen@126.com', '18559756159', false, '2020-07-14T15:33:12.038', NULL )
+1594712056012|26|statement|connection 0|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712056160|20|statement|connection 1|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712056343|5|statement|connection 2|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712056580|8|statement|connection 3|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712056779|10|statement|connection 4|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712056887|8|statement|connection 5|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712057041|13|statement|connection 6|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712057230|7|statement|connection 7|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712057400|9|statement|connection 8|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712057614|25|statement|connection 9|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712079559|90|statement|connection 9|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|INSERT INTO sys_user  ( id, username, password, email, mobile, del_flag, create_time, modified_time )  VALUES  ( ?, ?, ?, ?, ?, ?, ?, ? )|INSERT INTO sys_user  ( id, username, password, email, mobile, del_flag, create_time, modified_time )  VALUES  ( 1282941563927805954, 'trazen', '123456', 'trazen@126.com', '18559756159', false, '2020-07-14T15:34:39.406', NULL )
+1594712277647|15|statement|connection 0|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712277837|17|statement|connection 1|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712278118|77|statement|connection 2|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712278298|13|statement|connection 3|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712278527|20|statement|connection 4|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712278718|21|statement|connection 5|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712278950|20|statement|connection 6|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712279139|19|statement|connection 7|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712279350|18|statement|connection 8|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712279528|22|statement|connection 9|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712301754|137|statement|connection 9|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|UPDATE sys_user  SET username=?, modified_time=?  WHERE id=?|UPDATE sys_user  SET username='trazen', modified_time=NULL  WHERE id=1282941563927805954
+1594712422362|22|statement|connection 0|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712422617|9|statement|connection 1|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712422727|9|statement|connection 2|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712422857|9|statement|connection 3|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712423006|9|statement|connection 4|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712423138|10|statement|connection 5|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712423247|9|statement|connection 6|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712423387|9|statement|connection 7|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712423498|11|statement|connection 8|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712423598|10|statement|connection 9|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1594712445258|104|statement|connection 9|url jdbc:p6spy:mysql://192.168.29.188:3306/sc_oauth2?useUnicode=true&characterEncoding=utf-8|UPDATE sys_user  SET username=?, modified_time=?  WHERE id=?|UPDATE sys_user  SET username='trazen', modified_time='2020-07-14T15:40:45.096'  WHERE id=1282941563927805954

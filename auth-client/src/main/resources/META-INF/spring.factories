@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.hxmec.auth.config.MyResourceServerConfig,\
+  com.hxmec.auth.MyResourceServerAutoConfiguration,\
+  com.hxmec.auth.MyFeignAutoConfiguration,\
+  com.hxmec.auth.MyResourceServerTokenRelayAutoConfiguration
